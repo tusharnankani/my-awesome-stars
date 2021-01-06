@@ -150,7 +150,7 @@
 | 25 |  [pdfTools-Web](https://github.com/Kinjalrk2k/pdfTools-Web) | A web interface with various tools working on PDF files | Kinjalrk2k | 3 |
 | 26 |  [ContestMania](https://github.com/Surya1231/ContestMania) | A platform for tracking your competitive progress on various competitive coding websites. | Surya1231 | 15 |
 | 27 |  [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | Roadmap to becoming an Artificial Intelligence Expert in 2020 | AMAI-GmbH | 8598 |
-| 28 |  [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) | Automate running Lighthouse for every commit, viewing the changes, and preventing regressions | GoogleChrome | 3971 |
+| 28 |  [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) | Automate running Lighthouse for every commit, viewing the changes, and preventing regressions | GoogleChrome | 3972 |
 | 29 |  [particles-bg](https://github.com/lindelof/particles-bg) | React particles animation background component | lindelof | 266 |
 | 30 |  [docker-basicLearning](https://github.com/championshuttler/docker-basicLearning) | 🐬 Understand Docker step by step. A tutorial repo for beginners 🔥 | championshuttler | 293 |
 | 31 |  [dtale](https://github.com/man-group/dtale) | Visualizer for pandas data structures | man-group | 1911 |
@@ -164,7 +164,7 @@
 | 39 |  [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) | List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! | sudheerj | 9513 |
 | 40 |  [simpleParallax.js](https://github.com/geosigno/simpleParallax.js) | Simple and tiny JavaScript library that adds parallax animations on any images | geosigno | 1053 |
 | 41 |  [nano-neuron](https://github.com/trekhleb/nano-neuron) | 🤖 NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually &#34;learn&#34; | trekhleb | 1840 |
-| 42 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 92175 |
+| 42 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 92176 |
 | 43 |  [Otto](https://github.com/KartikChugh/Otto) | Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All Languages) on GitHub | KartikChugh | 880 |
 | 44 |  [Gitzilla](https://github.com/ChoukseyKhushbu/Gitzilla) | A resume builder for your GitHub profile. | ChoukseyKhushbu | 47 |
 | 45 |  [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) | 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. | rahuldkjain | 3264 |
@@ -172,7 +172,7 @@
 | 47 |  [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Materials to help you rock your next coding interview | yangshun | 48727 |
 | 48 |  [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) | A collection of awesome readme templates to display on your profile | kautukkundan | 7276 |
 | 49 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 47495 |
-| 50 |  [create-react-app](https://github.com/facebook/create-react-app) | Set up a modern web app by running one command. | facebook | 85016 |
+| 50 |  [create-react-app](https://github.com/facebook/create-react-app) | Set up a modern web app by running one command. | facebook | 85017 |
 | 51 |  [Swadeshi](https://github.com/tusharnankani/Swadeshi) | Implementing a Web Based solution through which farmers can participate in a commodity exchange market | tusharnankani | 14 |
 | 52 |  [vue-interactive-paycard](https://github.com/muhammed/vue-interactive-paycard) | Credit card form with smooth and sweet micro-interactions | muhammed | 5026 |
 | 53 |  [webogram](https://github.com/zhukov/webogram) | Telegram web application, GPL v3 | zhukov | 6998 |
@@ -228,7 +228,7 @@
 | 12 |  [Design_to_code](https://github.com/dheerajghub/Design_to_code) | This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes into code hope it helps you. | dheerajghub | 179 |
 | 13 |  [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) | A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them. | mrdbourke | 4185 |
 | 14 |  [learning](https://github.com/amitness/learning) | Becoming better at data science every day | amitness | 2749 |
-| 15 |  [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: | MaximAbramchuck | 37532 |
+| 15 |  [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: | MaximAbramchuck | 37533 |
 | 16 |  [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) | 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges. | alexandresanlim | 616 |
 | 17 |  [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers and blogs by organizations sharing their work on data science &amp; machine learning in production. | eugeneyan | 4890 |
 | 18 |  [project-based-learning](https://github.com/tuvtran/project-based-learning) | Curated list of project-based tutorials | tuvtran | 42639 |
@@ -244,8 +244,8 @@
 | 28 |  [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) | The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. | ritchieng | 7761 |
 | 29 |  [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) | :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources | lnishan | 7372 |
 | 30 |  [OpensourceResources](https://github.com/krishnadevz/OpensourceResources) | Free opensource Learning Resources related to Web-Development A to Z 🔥❤ | krishnadevz | 205 |
-| 31 |  [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more | bradtraversy | 23320 |
-| 32 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 170442 |
+| 31 |  [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more | bradtraversy | 23321 |
+| 32 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 170443 |
 | 33 |  [free-programming-books](https://github.com/salmanmkc/free-programming-books) | :books: Freely available programming books | salmanmkc | 2 |
 
 **[⬆ Back to Index](#-contents)**
@@ -278,7 +278,7 @@
 | 7 |  [faker](https://github.com/joke2k/faker) | Faker is a Python package that generates fake data for you. | joke2k | 11881 |
 | 8 |  [Ciphey](https://github.com/Ciphey/Ciphey) | ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡ | Ciphey | 6056 |
 | 9 |  [rembg](https://github.com/danielgatis/rembg) | Rembg is a tool to remove images background. | danielgatis | 714 |
-| 10 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 87193 |
+| 10 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 87194 |
 | 11 |  [tez](https://github.com/abhishekkrthakur/tez) | Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many utils that you can use to tackle over 90% of deep learning projects in PyTorch. | abhishekkrthakur | 379 |
 | 12 |  [QuickWall](https://github.com/deepjyoti30/QuickWall) | Set latest wallpapers from Unsplash from the commandline | deepjyoti30 | 120 |
 | 13 |  [sympy](https://github.com/sympy/sympy) | A computer algebra system written in pure Python | sympy | 7715 |
@@ -320,7 +320,7 @@
 | 49 |  [Udacity-Data-Structures-and-Algorithms-Nanodegree](https://github.com/anthonyguella/Udacity-Data-Structures-and-Algorithms-Nanodegree) |  | anthonyguella | 10 |
 | 50 |  [Social-Distancing-Alert-with-Convolutional-Neural-Network](https://github.com/adithyaur99/Social-Distancing-Alert-with-Convolutional-Neural-Network) |  | adithyaur99 | 5 |
 | 51 |  [AI-Snake-Reinforcement-Learning](https://github.com/kkishore9891/AI-Snake-Reinforcement-Learning) | Training AI to play snake game using Reinforcement learning with Keras API | kkishore9891 | 1 |
-| 52 |  [numpy-ml](https://github.com/ddbourgin/numpy-ml) | Machine learning, in numpy | ddbourgin | 9319 |
+| 52 |  [numpy-ml](https://github.com/ddbourgin/numpy-ml) | Machine learning, in numpy | ddbourgin | 9320 |
 | 53 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 107061 |
 
 **[⬆ Back to Index](#-contents)**
@@ -349,7 +349,7 @@
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It&#39;s fast. | vitejs | 14529 |
+| 1 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It&#39;s fast. | vitejs | 14530 |
 | 2 |  [cph](https://github.com/agrawal-d/cph) | Makes judging, compiling, and downloading problems for competitive programming easy. | agrawal-d | 154 |
 | 3 |  [streetmerchant](https://github.com/jef/streetmerchant) | 🤖 The world&#39;s easiest, most powerful stock checker | jef | 2886 |
 | 4 |  [react-hot-toast](https://github.com/timolins/react-hot-toast) | Smoking hot React Notifications 🔥 | timolins | 1439 |
